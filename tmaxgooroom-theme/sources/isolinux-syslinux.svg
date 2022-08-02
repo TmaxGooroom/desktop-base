@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" inkscape:export-filename="C:\Users\xine\Documents\2018-debian-buster\futurePrototype-source\boot-screen\isolinux-syslinux\png\isolinux-syslinux.png" inkscape:export-xdpi="96" inkscape:export-ydpi="96" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" sodipodi:docname="isolinux-syslinux.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:ns2="http://ns.adobe.com/AdobeIllustrator/10.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 640 300"
+	 style="enable-background:new 0 0 640 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#082E66;}
+	.st1{clip-path:url(#SVGID_4_);}
+	.st2{opacity:0.4;fill:#123777;enable-background:new    ;}
+	.st3{opacity:0.15;fill:#7793C4;enable-background:new    ;}
+	.st4{opacity:0.1;fill:#7793C4;enable-background:new    ;}
+	.st5{opacity:0.1;enable-background:new    ;}
+	.st6{fill:#325DA8;}
+	.st7{opacity:0.15;}
+	.st8{fill:#1944A4;}
+	.st9{opacity:7.000000e-02;fill:#FFFFFF;enable-background:new    ;}
+	.st10{opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
+	.st11{fill:#FFFFFF;}
+	.st12{fill:#D90000;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" width="640" height="300"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<rect y="-30" class="st0" width="640" height="360"/>
+	</g>
+	<g>
+		<defs>
+			<rect id="SVGID_3_" width="640" height="300"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st1">
+			<g>
+				<polygon class="st2" points="319.7,-30 569.5,141.5 640,38.8 640,-30 				"/>
+			</g>
+			<path class="st3" d="M367.3-30c0.1,3.2,0.2,6.3,0.2,9.5c0,109.8-89,198.7-198.7,198.7C97.6,178.3,35.1,140.8,0,84.5V-30H367.3z"
+				/>
+			<path class="st4" d="M640,270.1c-11.1,10.3-19.6,24.7-20.8,40.8h-162c2.3-107.5,80.3-196.4,182.8-215.5V270.1z"/>
+			<rect x="373.8" y="250.9" class="st5" width="118.1" height="6"/>
+			<g>
+				<polygon class="st6" points="409.9,32.1 374.8,92.9 375.7,94.5 411.8,32.1 				"/>
+				<polygon class="st6" points="378.5,99.3 417.3,32.1 415.4,32.1 377.6,97.7 				"/>
+				<polygon class="st6" points="381.3,104.1 422.8,32.1 421,32.1 380.3,102.5 				"/>
+				<polygon class="st6" points="384,108.9 428.4,32.1 426.5,32.1 383.1,107.3 				"/>
+				<polygon class="st6" points="386.8,113.7 433.9,32.1 432.1,32.1 385.9,112 				"/>
+				<polygon class="st6" points="389.6,118.5 439.5,32.1 437.6,32.1 388.7,116.8 				"/>
+				<polygon class="st6" points="392.4,123.3 445,32.1 443.2,32.1 391.4,121.6 				"/>
+				<polygon class="st6" points="395.1,128.1 450.6,32.1 448.7,32.1 394.2,126.4 				"/>
+				<polygon class="st6" points="397.9,132.9 456.1,32.1 454.2,32.1 397,131.2 				"/>
+				<polygon class="st6" points="400.7,137.7 461.6,32.1 459.8,32.1 399.7,136 				"/>
+				<polygon class="st6" points="403.4,142.5 467.2,32.1 465.3,32.1 402.5,140.8 				"/>
+				<polygon class="st6" points="406.2,147.3 472.7,32.1 470.9,32.1 405.3,145.6 				"/>
+				<polygon class="st6" points="409,152.1 478.3,32.1 476.4,32.1 408.1,150.4 				"/>
+				<polygon class="st6" points="413.6,153.6 482,35.3 481,33.6 411.7,153.6 				"/>
+				<polygon class="st6" points="419.1,153.6 484.7,40.1 483.8,38.4 417.3,153.6 				"/>
+				<polygon class="st6" points="424.7,153.6 487.5,44.9 486.6,43.2 422.8,153.6 				"/>
+				<polygon class="st6" points="430.2,153.6 490.3,49.7 489.3,48 428.4,153.6 				"/>
+				<polygon class="st6" points="435.8,153.6 493,54.5 492.1,52.8 433.9,153.6 				"/>
+				<polygon class="st6" points="441.3,153.6 495.8,59.3 494.9,57.6 439.5,153.6 				"/>
+				<polygon class="st6" points="446.9,153.6 498.6,64.1 497.7,62.4 445,153.6 				"/>
+				<polygon class="st6" points="452.4,153.6 501.4,68.9 500.4,67.2 450.5,153.6 				"/>
+				<polygon class="st6" points="457.9,153.6 504.1,73.7 503.2,72 456.1,153.6 				"/>
+				<polygon class="st6" points="463.5,153.6 506.9,78.5 506,76.8 461.6,153.6 				"/>
+				<polygon class="st6" points="469,153.6 509.7,83.3 508.7,81.6 467.2,153.6 				"/>
+				<polygon class="st6" points="474.6,153.6 512.4,88.1 511.5,86.4 472.7,153.6 				"/>
+				<polygon class="st6" points="480.1,153.6 515.2,92.9 514.3,91.2 478.2,153.6 				"/>
+			</g>
+			<g class="st7">
+				<polygon points="264.5,281.2 236.2,330 238.6,330 266.8,281.2 				"/>
+				<polygon points="271.4,281.2 243.2,330 245.5,330 273.7,281.2 				"/>
+				<polygon points="278.3,281.2 250.1,330 252.5,330 280.7,281.2 				"/>
+				<polygon points="285.3,281.2 257.1,330 259.4,330 287.6,281.2 				"/>
+				<polygon points="292.2,281.2 264,330 266.3,330 294.5,281.2 				"/>
+				<polygon points="299.2,281.2 271,330 273.3,330 301.5,281.2 				"/>
+				<polygon points="306.1,281.2 277.9,330 280.2,330 308.4,281.2 				"/>
+				<polygon points="313,281.2 284.8,330 287.2,330 315.4,281.2 				"/>
+				<polygon points="320,281.2 291.8,330 294.1,330 322.3,281.2 				"/>
+				<polygon points="326.9,281.2 298.7,330 301.1,330 329.3,281.2 				"/>
+				<polygon points="333.9,281.2 305.7,330 308,330 336.2,281.2 				"/>
+				<polygon points="340.8,281.2 312.6,330 314.9,330 343.1,281.2 				"/>
+				<polygon points="347.8,281.2 319.6,330 321.9,330 350.1,281.2 				"/>
+				<polygon points="353.5,283.2 326.5,330 328.8,330 354.7,285.2 				"/>
+				<polygon points="357,289.2 333.4,330 335.8,330 358.2,291.2 				"/>
+				<polygon points="360.5,295.2 340.4,330 342.7,330 361.6,297.2 				"/>
+				<polygon points="364,301.2 347.3,330 349.7,330 365.1,303.3 				"/>
+				<polygon points="367.4,307.2 354.3,330 356.6,330 368.6,309.3 				"/>
+				<polygon points="370.9,313.2 361.2,330 363.6,330 372.1,315.3 				"/>
+				<polygon points="374.4,319.2 368.1,330 370.5,330 375.5,321.3 				"/>
+				<polygon points="379,327.3 377.8,325.3 375.1,330 377.4,330 				"/>
+			</g>
+			<rect x="593.3" y="57" class="st8" width="46.7" height="5.3"/>
+			<rect y="-5.4" class="st9" width="97.9" height="6"/>
+			
+				<ellipse transform="matrix(0.1602 -0.9871 0.9871 0.1602 86.9242 415.7672)" class="st10" cx="287.8" cy="156.8" rx="43.2" ry="43.2"/>
+			<g>
+				<polygon class="st2" points="335.4,262 39.1,191.1 5.9,330 319.1,330 				"/>
+			</g>
+			<g>
+				<path class="st5" d="M31.3-30v166.8v80.6c0,17.1-13.8,30.9-30.9,30.9c-0.1,0-0.3,0-0.4,0v55.4c0.1,0,0.3,0,0.4,0
+					c47.7,0,86.3-38.7,86.3-86.3V-30H31.3z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<sodipodi:namedview  bordercolor="#b20eb2" borderlayer="true" borderopacity="1" id="base" inkscape:bbox-nodes="true" inkscape:bbox-paths="true" inkscape:current-layer="layer1" inkscape:cx="326.23938" inkscape:cy="181.52229" inkscape:document-units="px" inkscape:guide-bbox="true" inkscape:object-paths="true" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:showpageshadow="false" inkscape:snap-bbox="true" inkscape:snap-bbox-edge-midpoints="true" inkscape:snap-bbox-midpoints="true" inkscape:snap-global="false" inkscape:snap-intersection-paths="true" inkscape:snap-midpoints="true" inkscape:snap-page="true" inkscape:snap-smooth-nodes="true" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.77514562" pagecolor="#ffffff" showborder="true" showgrid="false" showguides="true" units="px">
+	</sodipodi:namedview>
+<g>
+	<polygon class="st11" points="575.2,231.8 564.8,231.8 567.3,220.4 605,220.4 602.5,231.8 592.1,231.8 585.5,262.9 568.7,262.9 	
+		"/>
+	<polygon class="st12" points="579.6,226.6 559.9,226.6 564,208.3 583.7,208.3 	"/>
+</g>
+</svg>
